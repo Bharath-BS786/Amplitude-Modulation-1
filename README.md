@@ -92,14 +92,14 @@ TABULATION:
 
 
 Calculation
-1.	ma (Theory) = am/ac =
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
+1.	ma (Theory) = am/ac =0.5
+2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =0.5
 
 ![ac exp 1 2](https://github.com/user-attachments/assets/32756253-8252-4250-8628-6beca19a7a3f)
 
 
 
-![ac exp 1 1](https://github.com/user-attachments/assets/908582a7-67e1-4357-a953-4cc6827ecb7c)
+![ac exp 1 1](https://github.com/user-attachments/assets/b6dbc4ac-4308-4e09-bf77-33e005aa7c63)
 
 MODEL GRAPH
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
