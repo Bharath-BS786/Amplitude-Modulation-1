@@ -1,4 +1,4 @@
-# Amplitude-Modulation
+<img width="723" height="935" alt="image" src="https://github.com/user-attachments/assets/2f2a4c35-5a95-4cc6-a8f3-4db4650b4103" /># Amplitude-Modulation
 
 EXP NO: 1	GENERATION AND DETECTION OF AM
 
@@ -75,23 +75,30 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	Verify the generated waveform using Tabulation and Model Waveform
 
 Program
+<img width="723" height="935" alt="Screenshot 2025-10-31 094327" src="https://github.com/user-attachments/assets/08eb9c28-d83a-4931-ae15-6b2976d72c3a" />
+
 
 
 
 Output Waveform
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ca3a8aa2-8f20-44ef-a7ff-065d382e4160" />
 
 
 
 
 TABULATION:
 
+![ac exp 1](https://github.com/user-attachments/assets/23595c7c-31c6-45b2-92ed-8e973c9703a4)
 
 
 Calculation
 1.	ma (Theory) = am/ac =
+
 2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
 
+![ac exp 1 2](https://github.com/user-attachments/assets/c7419537-a1f6-4ee6-bf44-d64f3b6209e9)
+![ac exp 1 1](https://github.com/user-attachments/assets/52e2fc69-adf9-4b6e-92a3-56b201caf064)
 
 MODEL GRAPH
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
